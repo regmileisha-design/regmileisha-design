@@ -11,7 +11,7 @@
  
  . Building a To-Do List
 
-3) My goal
+3)My goal
  *To keep learning innovative skills and create a good vision for my upcoming future to grow as a developer.
 
 <!--
