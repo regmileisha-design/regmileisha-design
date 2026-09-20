@@ -1,4 +1,15 @@
- ## Hi there 👋
+ ## Hi there 👋, I'm Leisha
+ I'm a beginner developer learning python and some basic form of coding
+ 
+ Currently learning:
+ .Python
+ .Git and Github 
+
+ Currently working on
+ . Building a To-Do List
+
+ My goal
+ To keep learning innovative skills and create a good vision for my upcoming future to grow as a developer.
 
 <!--
 **regmileisha-design/regmileisha-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
