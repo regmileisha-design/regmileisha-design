@@ -1,17 +1,17 @@
  ## Hi there 👋, I'm Leisha
- I'm a beginner developer learning python and some basic form of coding
+ 🌱I'm a beginner developer learning python and some basic form of coding
  
-  1)Currently learning:
+  1)💻Currently learning:
  
- .Python
+ .🐍Python
  
- .Git and Github 
+ .🛠️Git and Github 
 
  2)Currently working on
  
- . Building a To-Do List
+ .📝 Building a To-Do List
 
-3)My goal
+3)🌱My goal
 
  *To keep learning innovative skills and create a good vision for my upcoming future to grow as a developer.
 
